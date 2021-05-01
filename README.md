@@ -3,8 +3,8 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## About me
-- 💻 I'm a Computer Engineering student at Shahid Beheshti University
-- 👨‍💻 Currently I’m a fullstack developer at Tapsi
+- 💻 I'm Computer Engineering student at Shahid Beheshti University
+- 👨‍💻 Currently I’m fullstack developer at Tapsi
 - 📚 I’m intrested in AI and Web Development
 
 
